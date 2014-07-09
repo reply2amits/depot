@@ -1,0 +1,18 @@
+---
+image1.jpeg: image1-55521e3e74d464cbe7449f2bab1d1a2e.jpeg
+image1/index.jpeg: image1-55521e3e74d464cbe7449f2bab1d1a2e.jpeg
+image2.jpeg: image2-db4eb045a3157f9b0e4e5219c8fe6617.jpeg
+image2/index.jpeg: image2-db4eb045a3157f9b0e4e5219c8fe6617.jpeg
+image3.jpeg: image3-2bea856a077ba501bc56c66b867c8cf0.jpeg
+image3/index.jpeg: image3-2bea856a077ba501bc56c66b867c8cf0.jpeg
+index.jpeg: index-5b8b777eef304f258a94a8d0745c9598.jpeg
+logo.jpeg: logo-5b8b777eef304f258a94a8d0745c9598.jpeg
+logo/index.jpeg: logo-5b8b777eef304f258a94a8d0745c9598.jpeg
+rails.png: rails-a3386665c05a2d82f711a4aaa72d247c.png
+rails/index.png: rails-a3386665c05a2d82f711a4aaa72d247c.png
+application.js: application-ba8152b2a0de81c35ea254e4fb6b8839.js
+application/index.js: application-ba8152b2a0de81c35ea254e4fb6b8839.js
+application.css: application-57e007fef0da5873c84205e60a8b3f16.css
+application/index.css: application-57e007fef0da5873c84205e60a8b3f16.css
+jquery.min.map: jquery.min-e146c025d6a36461812bc97143056bd3.map
+jquery/index.min.map: jquery.min-e146c025d6a36461812bc97143056bd3.map
